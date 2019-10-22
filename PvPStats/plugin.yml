@@ -1,0 +1,11 @@
+name: PvPStats
+version: 1.0
+main: me.Sp3eex.PvPStats.Main
+api-version: 1.13
+commands:
+  pvp:
+    command: /<command>
+    description: PvP Stats for you and other players
+  pvptop:
+    command: /<command>
+    description: Top PvPers 

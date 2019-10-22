@@ -1,0 +1,9 @@
+name: RankSigns
+main: me.Sp3eex.RankSigns.Main
+version: 1.0
+api-version: 1.14
+description: A simple ranksigns plugin
+commands:
+  rs:
+    usage: /<command>
+    description: Show avalible ranks

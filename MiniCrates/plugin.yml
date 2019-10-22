@@ -1,8 +1,0 @@
-name: MiniCrates
-version: 1.1
-main: me.Sp3eex.MiniCrates.Main
-api-version: 1.14
-commands:
-  crate:
-    description: Crate settings
-    usage: /<command> 

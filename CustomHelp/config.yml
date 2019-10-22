@@ -1,0 +1,10 @@
+help:
+  - "&9-----------------------------------"
+  - "&9/vote &fvote for the server"
+  - "&9/bar &fbar bets"
+  - "&9/bars <player> &fbar bets stats"
+  - "&9/pvp &fyour pvp stats"
+  - "&9/pvp <player> &fpvp stats for other players"
+  - "&9/prefix &fset your prefix"
+  - "&9-----------------------------------"
+no-help-message: "&cHelp is not defined."

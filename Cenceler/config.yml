@@ -1,0 +1,20 @@
+# Config Cenceler v1.0 - permissions: cenceler.<blocked-command> to bypass restricted commands
+DisableCommandsInConsole: false
+FullyDisableChat: false
+disabled-chat-message: "&cSorry, but you cant chat here."
+deny-message: "&cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is a mistake."
+blocked-ingame-commands:
+  - "/?"
+  - "/about"
+  - "/help"
+  - "/pl"
+  - "/plugins"
+  - "/ver"
+  - "/version"
+  - "/bukkit:?"
+  - "/bukkit:about"
+  - "/bukkit:help"
+  - "/bukkit:pl"
+  - "/bukkit:plugins"
+  - "/bukkit:ver"
+  - "/bukkit:version"

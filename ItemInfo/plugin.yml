@@ -1,0 +1,8 @@
+name: ItemInfo
+version: 1.0
+main: me.Sp3eex.ItemInfo.Main
+description: iteminfo plugin for build server
+commands:
+  item:
+    usage: /<command>
+    description: get the item info while holding it in your hand

@@ -1,7 +1,0 @@
-name: CPrefix
-version: 1.0
-main: me.Sp3eex.CPrefix.Main
-commands:
-  prefix:
-    command: /<command>
-    description: Sets your prefix

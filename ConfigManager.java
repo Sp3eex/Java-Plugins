@@ -10,11 +10,8 @@ public class ConfigManager {
 
 	private static FileConfiguration config;
 	private static File file;
-	
-	public static FileConfiguration GetConfigFile() {
-        return config;
-    }
-	
+	public static FileConfiguration GetConfigFile() { return config; }
+
 	public static void SaveConfigFile(String configName) {
     	try {
     		File tfile = new File(Main.Instance().getDataFolder(), configName);

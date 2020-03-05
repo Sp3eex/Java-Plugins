@@ -1,6 +1,0 @@
-name: CustomHelp
-version: 1.0
-main: me.Sp3eex.CustomHelp.Main
-commands:
-  help:
-    command: /<command>

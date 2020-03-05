@@ -1,5 +1,0 @@
-name: RandomTeleport
-version: 1.0
-main: me.Sp3eex.RandomTeleport.Main
-commands:
-  rtp: 
